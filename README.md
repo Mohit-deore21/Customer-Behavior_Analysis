@@ -1,7 +1,3 @@
-# Customer-Behavior_Analysis
-Customer Behavior Analysis using Python, SQL,, and Power BI.
-
-
 # Customer Behavior Analysis
 
 A data analytics project analyzing customer purchasing behavior and identifying useful business insights.
